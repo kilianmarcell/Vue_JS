@@ -1,0 +1,15 @@
+.kesz{
+     text-decoration: line-through;
+ }
+ 
+ button, #todoInput{
+     width: 100%;
+ }
+ 
+ .jobbra{
+     float: right;
+ }
+ 
+ div{
+     padding-top: 10px;
+ }
